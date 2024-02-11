@@ -1,0 +1,16 @@
+@import 'vars';
+@import 'mixins';
+
+/*
+	Newborn care by Selasie
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+/* Banner */
+
+	#banner {
+		&:after {
+			display: none;
+		}
+	}
